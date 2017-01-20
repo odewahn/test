@@ -1,4 +1,4 @@
-FROM jupyter/minimal-notebook:6399d2faf16f
+FROM jupyter/scipy-notebook:6399d2faf16f
 
 # Launchbot labels
 LABEL name.launchbot.io="test"
